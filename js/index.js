@@ -1,3 +1,3 @@
-function somatr() {
+function somar() {
     console.log(1 + 1);
 }
